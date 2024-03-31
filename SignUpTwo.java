@@ -157,7 +157,7 @@ public class SignUpTwo extends JFrame implements ActionListener {
     // add(pinTextField);
 
     next = new JButton("Next");
-    next.setBackground(Color.GREEN);
+    next.setBackground(Color.BLUE);
     next.setForeground(Color.WHITE);
     next.setFont(new Font("Ralevay", Font.BOLD, 14));
     next.setBounds(620, 660, 80, 30);
