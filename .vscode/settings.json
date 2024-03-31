@@ -1,0 +1,8 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "calender/jcalendar-tz-1.3.3-4.jar",
+    "c:\\Users\\win\\Downloads\\mysql-connector-java-8.0.28.jar"
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
+}
